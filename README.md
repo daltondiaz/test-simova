@@ -99,6 +99,7 @@ Tabela de Funcionários
 - Não é necessário realizar autenticação na API
 - Não precisar ser Restful
 - Docker não é obrigatório, se você já possuir experiência pode utilizar
+- Não é necessário 100% de coverage no tests, faça apenas nas funções que você acredite ser as mais importantes e com grande impacto
 
 ## Dicas
 
