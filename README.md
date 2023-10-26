@@ -20,7 +20,7 @@ Com isso você vai aplicar as seguintes regras:
 
 - seq: Vai ser um sequencial único que vai ser gerado a cada novo apontamento
 - end_date: A Data Final sempre será a Data Inicial do Apontamento Anterior, se não tiver apontamento Anterior, será a Data Atual;
-- total_time: É a diferente entre a data final e inicial em segundos, para saber o tempo total da tarefa
+- total_time: É a diferença entre a data final e inicial em segundos, para saber o tempo total da tarefa
 
 ### Alteração
 
